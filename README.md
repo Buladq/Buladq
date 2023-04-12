@@ -6,6 +6,6 @@
  
  A little about me:
  
- :telescope: I study at KFU
- :telescope: Looking for a job as an intern or junior developer
- :telescope: Programming for less than a year
+- I study at KFU
+- :telescope: Looking for a job as an intern or junior developer
+- Programming for less than a year
